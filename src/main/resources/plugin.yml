@@ -1,0 +1,11 @@
+name: InventoryProtect
+version: '${version}'
+main: com.example.inventoryprotect.InventoryProtect
+api-version: '1.20'
+authors: [ _ggori_ ]
+commands:
+  is:
+    permission: op
+    permission-message: "당신은 이 명령어를 사용할 권한이 없습니다."
+    description: 인벤토리 보호권을 지급한다.
+    usage: /is give <player> <amount>
