@@ -1,0 +1,5 @@
+name: timer
+version: '1.0-SNAPSHOT'
+main: org.plugin.timer.Timer
+api-version: '1.20'
+authors: [ _ggori_ ]
